@@ -1,6 +1,11 @@
 # aqillearnSQL4DE
 # COMPLETE SQL Roadmap For DataEngineer
 
+different a bit compares to other sql
+- External Table
+- JinJa Template
+- Create Partition
+
 
 ## PHASE - 1 [FUNDAMENTALS & NON NEGOTIABLES]
 - <img src = "https://github.com/anshlambagit/SQL_Roadmap_For_DataEngineer/blob/main/Roadmap_Visual/phase_1.png">
